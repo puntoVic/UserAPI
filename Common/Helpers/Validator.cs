@@ -14,13 +14,13 @@ namespace Common.Helpers
                 errors = "The name is required";
             if (user.Email == null)
                 //Validate if Email is null
-                errors = errors + " The email is required";
+                errors += " The email is required";
             if (user.Address == null)
                 //Validate if Address is null
-                errors = errors + " The address is required";
+                errors += " The address is required";
             if (user.Phone == null)
                 //Validate if Phone is null
-                errors = errors + " The phone is required";
+                errors += " The phone is required";
             return errors;
         }
 

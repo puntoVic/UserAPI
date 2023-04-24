@@ -1,3 +1,8 @@
+using Business;
+using Business.Contracts;
+using Data;
+using Data.Contracts;
+using Data.DataAccess;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,6 +31,26 @@ namespace UserAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddSwaggerGen();
+            AddDataProviders(services);
+            AddDataAccessServices(services);
+            AddManagers(services);
+        }
+
+        private void AddDataProviders(IServiceCollection services)
+        {
+            services.AddSingleton<IDataContext>(options =>
+                new DataContext(Configuration.GetConnectionString("FilePath")));
+        }
+
+        private void AddDataAccessServices(IServiceCollection services)
+        {
+            services.AddScoped<IUserDataAccess, UserDataAccess>();
+        }
+
+        private void AddManagers(IServiceCollection services)
+        {
+            services.AddScoped<IUserManager, UserManager>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
