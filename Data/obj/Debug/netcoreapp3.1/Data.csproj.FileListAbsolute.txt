@@ -1,0 +1,10 @@
+D:\Proyectos\UserAPI\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Proyectos\UserAPI\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Proyectos\UserAPI\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Proyectos\UserAPI\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+D:\Proyectos\UserAPI\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\UserAPI\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Proyectos\UserAPI\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Proyectos\UserAPI\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Proyectos\UserAPI\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Proyectos\UserAPI\Data\obj\Debug\netcoreapp3.1\Data.pdb

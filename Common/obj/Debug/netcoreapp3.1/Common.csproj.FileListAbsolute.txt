@@ -1,0 +1,13 @@
+D:\Proyectos\UserAPI\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\Proyectos\UserAPI\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\Proyectos\UserAPI\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Proyectos\UserAPI\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\Proyectos\UserAPI\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\UserAPI\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\Proyectos\UserAPI\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\Proyectos\UserAPI\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\Proyectos\UserAPI\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\Proyectos\UserAPI\Common\obj\Debug\netcoreapp3.1\Common.pdb
+D:\Proyectos\UserAPI\Common\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Proyectos\UserAPI\Common\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Proyectos\UserAPI\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
